@@ -1,0 +1,7 @@
+camunda:
+  bpm:
+    metrics:
+      db-reporter-activate: false
+    database:
+      schema-update: true
+
